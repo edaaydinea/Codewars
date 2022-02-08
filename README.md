@@ -10,6 +10,7 @@ This repository consists of solutions to Codewars **practice**, **tutorials**, a
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/edaaydinea/Codewars)](https://github.com/edaaydinea/Codewars/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/edaaydinea/Codewars)](https://github.com/edaaydinea/Codewars/archive/master.zip)
+[![GitHub WakaTime](https://wakatime.com/badge/github/edaaydinea/Codewars.svg)](https://wakatime.com/badge/github/edaaydinea/Codewars.svg)
 
 ## Personal Coderbyte Profile
 
